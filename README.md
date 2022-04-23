@@ -50,19 +50,19 @@ python bot.py
 * if you want use in server now `-setup guild` to setup the commands. | remove command `-unsetup guild`
 
 ## Usage
-
+พิมพ์ / ข้างนห้าเพื่อใช้คำสั่ง
 | Command                       | Action                                                                                                     |
 | :---------------------------- | :--------------------------------------------------------------------------------------------------------- |
-| `store`  | Shows your daily store |
-| `point`  | Shows your valorant point |
-| `login`  | Log in with your Riot acoount |
-| `logout`  | Logout your Riot acoount |
-| `misson`  | View your daily/weekly mission progress |
-| `notify`  | Set a notification when a specific skin is available on your store |
-| `notifys`  | View skins you have set a notification for |
-| `notify_mode`  | Change notification mode `Specified skin` or `all skin` |
-| `nightmarket`  | Shows your nightmarket |
-| `battlepass`  | View your battlepass' current tier |
+| `store`  | แสดงร้านค้ารายวันของคุณ |
+| `point`  | แสดงแต้มความ Valorant ของคุณ |
+| `login`  | เข้าสู่ระบบบัญชี Riot ของคุณ |
+| `logout`  | ออกจากระบบบัญชี Riot ของคุณ |
+| `misson`  | ดูความคืบหน้าภารกิจรายวัน/รายสัปดาห์ของคุณ |
+| `notify`  | ตั้งค่าการแจ้งเตือนเมื่อมีสกินเฉพาะในร้านค้าของคุณ |
+| `notifys`  | ดูสกินที่คุณตั้งการแจ้งเตือนไว้ |
+| `notify_mode`  | เปลี่ยนโหมดการแจ้งเตือน ระบุสกิน=`Specified skin` หรือ ทุกสกิน=`all skin` |
+| `nightmarket`  | แสดงตลาดกลางคืนของคุณ |
+| `battlepass`  | ดูระดับปัจจุบันของ battlepass ของคุณ |
 
 ## Special thanks
 
