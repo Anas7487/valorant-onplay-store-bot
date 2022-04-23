@@ -49,7 +49,7 @@ python bot.py
 * Slash Command in the global happens instantly `(takes 1 hour to process.)` | force global `-setup global`
 * if you want use in server now `-setup guild` to setup the commands. | remove command `-unsetup guild`
 
-## Usage
+## Command
 พิมพ์ / ข้างนห้าเพื่อใช้คำสั่ง
 | Command                       | Action                                                                                                     |
 | :---------------------------- | :--------------------------------------------------------------------------------------------------------- |
